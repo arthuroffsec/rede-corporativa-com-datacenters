@@ -10,7 +10,7 @@ hierárquica via switches e roteadores.
 ## Topologia
 - 4 roteadores (Cisco 2911) interligando 4 sub-redes distintas
 - Servidores: DHCP, DNS, WEB, FTP
-- [X] switches distribuindo acesso para PCs, laptops e impressoras
+- switches distribuindo acesso para PCs, laptops e impressoras
 - Endereçamento IP com VLSM (redes /24 para LAN, /30 para links WAN)
 
 ## Tecnologias e Protocolos
